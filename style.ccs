@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ruby_gem.JPG/240px-Ruby_gem.JPG);
+}
+.GGgo{
+    background: #460101;
+    padding: 4%;
+    margin: 10%  5%;
+    border-right: 5px solid red;
+    border-radius: 15px;
+    color: red;
+    border-bottom: 3px solid red;
+}
+.GGgo p{
+    margin: 4%;
+    font-size: 20px;
+}
+.GGgo h2{
+    margin: 2%;
+}
+.GGstart{
+    background: #aa1212;
+    color: #fff;
+}
+.GGstart h1{
+    color: #fff;
+}
+ul{
+    
+    list-style: url(https://learn.alg.academy/uploads/student/1801669/656c8798baccd.png);
+}
+.GGvideo{
+    width: 95%;
+
+}
+nav img{
+    width: 40x;
+    height: 40px;
+}
+h1{
+    font-size: 40px;
+}
+footer{
+    background: #aa1212;
+    color: #fff;
+}
+footer p{
+    font-size: 40px;
+}
