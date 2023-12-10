@@ -27,7 +27,7 @@ body {
 }
 ul{
     
-    list-style: url(https://learn.alg.academy/uploads/student/1801669/656c8798baccd.png);
+    list-style: url(656c86fa955d3.png);
 }
 .GGvideo{
     width: 95%;
